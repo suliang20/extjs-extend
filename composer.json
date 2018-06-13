@@ -11,7 +11,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "bower-asset/dp-extjs": "~1.0",
+        "suliang/dp-extjs": "~1.0",
         "suliang/yii2-extjs-rbac": "~1.0.3"
     }
 }
